@@ -1,6 +1,4 @@
-# Hello..
-
-## 👨‍💻 My name is Yusuf, and I'm interested in all things **DATA** 
+## Hi there 👨‍💻 My name is Yusuf, and I'm interested in all things **DATA** 
 
 🌱 My speciality is in **Data Analysis and Machine Learning in Python**, and **I'm currently learning SQL** to strengthen my Data Analysis skill-stack.
 
