@@ -1,10 +1,12 @@
-# 👨‍💻 My name is Yusuf, and I'm interested in all things **DATA** 
+# Hello..
+
+## 👨‍💻 My name is Yusuf, and I'm interested in all things **DATA** 
 
 🌱 My speciality is in **Data Analysis and Machine Learning in Python**, and **I'm currently learning SQL** to strengthen my Data Analysis skill-stack.
 
 🧱 I recently built a Machine Learning program that predicts football players points for FantasyPL. 
 
-🎓 Got a First Class BEng in Design Innovation and Creative Engineering, and completed my post-grad in **Data Science, Machine Learning and A.I **
+🎓 Got a First Class BEng in Design Innovation and Creative Engineering, and completed my post-grad in **Data Science, Machine Learning and A.I**.
 
 ### 📫 How to reach me:
 - Gmail: [yusufraja99@gmail.com]
