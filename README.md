@@ -6,7 +6,7 @@
 
 🧱 I recently built a Machine Learning program that predicts football players points for FantasyPL. 
 
-🎓 Got a First Class BEng in Design Innovation and Creative Engineering, and completed my post-grad in **Data Science, Machine Learning and A.I �**
+🎓 Got a First Class BEng in Design Innovation and Creative Engineering, and completed my post-grad in **Data Science, Machine Learning and A.I **
 
 
 
